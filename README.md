@@ -81,10 +81,3 @@ The models are built using Keras and TensorFlow.
 
 The project evaluates the performance of the models using metrics such as confusion matrix and classification report. The results show the accuracy and other performance metrics of the emotion recognition models.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
